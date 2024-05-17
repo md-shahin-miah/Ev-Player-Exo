@@ -1,4 +1,4 @@
-# KVPlayer
+# EVPlayer
 
 It is a Video player app using Kotlin, Exo player library using MVVM architecture. This app supports subtitle, different audio language.
 
