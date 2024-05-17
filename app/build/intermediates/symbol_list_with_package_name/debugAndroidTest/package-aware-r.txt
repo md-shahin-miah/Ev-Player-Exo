@@ -1,0 +1,3 @@
+com.lasuak.kvplayer.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

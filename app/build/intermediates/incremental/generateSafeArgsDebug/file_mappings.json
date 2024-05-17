@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\main_nav_graph.xml","javaFiles":["com.lasuak.kvplayer.ui.fragments.FolderFragmentDirections","com.lasuak.kvplayer.ui.fragments.VideoFragmentDirections","com.lasuak.kvplayer.ui.fragments.VideoFragmentArgs","com.lasuak.kvplayer.ui.fragments.PlayerFragmentArgs"]}]

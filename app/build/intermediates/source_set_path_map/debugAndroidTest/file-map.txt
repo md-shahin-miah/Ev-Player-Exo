@@ -1,0 +1,9 @@
+com.lasuak.kvplayer.test.app-jetified-core-1.5.0-0 C:\Users\yotech45\.gradle\caches\transforms-3\493c717b2a90e359292f3e33b683fa7c\transformed\jetified-core-1.5.0\res
+com.lasuak.kvplayer.test.app-jetified-annotation-experimental-1.3.0-1 C:\Users\yotech45\.gradle\caches\transforms-3\d32f3db12721bd35adbb06c74d501662\transformed\jetified-annotation-experimental-1.3.0\res
+com.lasuak.kvplayer.test.app-androidTest-2 C:\Users\yotech45\StudioProjects\KVPlayer\app\build\generated\res\resValues\androidTest\debug
+com.lasuak.kvplayer.test.app-androidTest-3 C:\Users\yotech45\StudioProjects\KVPlayer\app\build\generated\res\rs\androidTest\debug
+com.lasuak.kvplayer.test.app-mergeDebugAndroidTestResources-4 C:\Users\yotech45\StudioProjects\KVPlayer\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.lasuak.kvplayer.test.app-mergeDebugAndroidTestResources-5 C:\Users\yotech45\StudioProjects\KVPlayer\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.lasuak.kvplayer.test.app-merged_res-6 C:\Users\yotech45\StudioProjects\KVPlayer\app\build\intermediates\merged_res\debugAndroidTest
+com.lasuak.kvplayer.test.app-androidTest-7 C:\Users\yotech45\StudioProjects\KVPlayer\app\src\androidTest\res
+com.lasuak.kvplayer.test.app-androidTestDebug-8 C:\Users\yotech45\StudioProjects\KVPlayer\app\src\androidTestDebug\res
