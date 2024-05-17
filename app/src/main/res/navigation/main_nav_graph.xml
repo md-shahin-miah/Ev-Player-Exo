@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/folderFragment"
-        android:name="com.lasuak.kvplayer.ui.fragments.FolderFragment"
+        android:name="com.shahin.evplayer.ui.fragments.FolderFragment"
         android:label="Folders"
         tools:layout="@layout/fragment_folder">
         <action
@@ -23,7 +23,7 @@
     </fragment>
     <fragment
         android:id="@+id/videoFragment"
-        android:name="com.lasuak.kvplayer.ui.fragments.VideoFragment"
+        android:name="com.shahin.evplayer.ui.fragments.VideoFragment"
         android:label="{folderName}"
         tools:layout="@layout/fragment_video">
         <action
@@ -42,7 +42,7 @@
     </fragment>
     <fragment
         android:id="@+id/playerFragment"
-        android:name="com.lasuak.kvplayer.ui.fragments.PlayerFragment"
+        android:name="com.shahin.evplayer.ui.fragments.PlayerFragment"
         android:label=""
         tools:layout="@layout/fragment_player">
         <argument
@@ -52,6 +52,6 @@
             android:name="position"
             app:argType="integer" />
         <argument android:name="video"
-            app:argType="com.lasuak.kvplayer.model.Video"/>
+            app:argType="com.shahin.evplayer.model.Video"/>
     </fragment>
 </navigation>

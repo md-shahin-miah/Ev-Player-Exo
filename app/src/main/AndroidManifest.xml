@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.lasuak.kvplayer">
+    package="com.shahin.evplayer">
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission
@@ -20,7 +20,7 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
         <activity
-            android:name=".ui.MainActivity"
+            android:name="com.shahin.evplayer.ui.MainActivity"
             android:configChanges="screenSize|orientation"
             android:exported="true">
             <intent-filter>
@@ -58,7 +58,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.lasuak.kvplayer.fileprovider"
+            android:authorities="com.shahin.evplayer.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
