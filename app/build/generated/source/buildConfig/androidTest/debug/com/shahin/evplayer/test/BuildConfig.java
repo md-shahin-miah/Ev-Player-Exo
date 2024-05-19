@@ -5,6 +5,6 @@ package com.shahin.evplayer.test;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "com.lasuak.kvplayer.test";
+  public static final String APPLICATION_ID = "com.shahin.evplayer.test";
   public static final String BUILD_TYPE = "debug";
 }

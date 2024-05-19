@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KVPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/KVPlayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KVPlayer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KVPlayer.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KVPlayer.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KVPlayer.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KVPlayer.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KVPlayer.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KVPlayer.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KVPlayer.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EVPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/EVPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EVPlayer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EVPlayer.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EVPlayer.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EVPlayer.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EVPlayer.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EVPlayer.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EVPlayer.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EVPlayer.app.unitTest.iml" />
     </modules>
   </component>
 </project>

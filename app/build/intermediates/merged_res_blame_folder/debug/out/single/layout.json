@@ -1,38 +1,38 @@
 [
     {
-        "merged": "com.lasuak.kvplayer.app-mergeDebugResources-49:/layout/folder_item.xml",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/folder_item.xml"
+        "merged": "com.shahin.evplayer.app-mergeDebugResources-49:/layout/folder_item.xml",
+        "source": "com.shahin.evplayer.app-main-52:/layout/folder_item.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-mergeDebugResources-49:/layout/fragment_folder.xml",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/fragment_folder.xml"
+        "merged": "com.shahin.evplayer.app-mergeDebugResources-49:/layout/custom_player_control_view.xml",
+        "source": "com.shahin.evplayer.app-main-52:/layout/custom_player_control_view.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-mergeDebugResources-49:/layout/fragment_video.xml",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/fragment_video.xml"
+        "merged": "com.shahin.evplayer.app-mergeDebugResources-49:/layout/details_bottomsheet_dialog.xml",
+        "source": "com.shahin.evplayer.app-main-52:/layout/details_bottomsheet_dialog.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-mergeDebugResources-49:/layout/fragment_player.xml",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/fragment_player.xml"
+        "merged": "com.shahin.evplayer.app-mergeDebugResources-49:/layout/audio_track_dialog.xml",
+        "source": "com.shahin.evplayer.app-main-52:/layout/audio_track_dialog.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-mergeDebugResources-49:/layout/custom_player_control_view.xml",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/custom_player_control_view.xml"
+        "merged": "com.shahin.evplayer.app-mergeDebugResources-49:/layout/video_item.xml",
+        "source": "com.shahin.evplayer.app-main-52:/layout/video_item.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-mergeDebugResources-49:/layout/audio_track_dialog.xml",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/audio_track_dialog.xml"
+        "merged": "com.shahin.evplayer.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.shahin.evplayer.app-main-52:/layout/activity_main.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-mergeDebugResources-49:/layout/video_item.xml",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/video_item.xml"
+        "merged": "com.shahin.evplayer.app-mergeDebugResources-49:/layout/fragment_player.xml",
+        "source": "com.shahin.evplayer.app-main-52:/layout/fragment_player.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-mergeDebugResources-49:/layout/details_bottomsheet_dialog.xml",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/details_bottomsheet_dialog.xml"
+        "merged": "com.shahin.evplayer.app-mergeDebugResources-49:/layout/fragment_video.xml",
+        "source": "com.shahin.evplayer.app-main-52:/layout/fragment_video.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-mergeDebugResources-49:/layout/activity_main.xml",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/activity_main.xml"
+        "merged": "com.shahin.evplayer.app-mergeDebugResources-49:/layout/fragment_folder.xml",
+        "source": "com.shahin.evplayer.app-main-52:/layout/fragment_folder.xml"
     }
 ]

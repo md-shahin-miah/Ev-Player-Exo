@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.lasuak.kvplayer.app-mergeDebugResources-48:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "outputFile": "com.shahin.evplayer.app-mergeDebugResources-48:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\yotech45\\.gradle\\caches\\transforms-3\\eb136f514e355f0f84a37b22a584785f\\transformed\\material-1.7.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\eb136f514e355f0f84a37b22a584785f\\transformed\\material-1.7.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

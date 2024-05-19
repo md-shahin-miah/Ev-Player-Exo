@@ -1,198 +1,198 @@
 [
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/layout_video_item.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/layout/video_item.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_background_image.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/background_image.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/anim_slide_in_right.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/anim/slide_in_right.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/layout_activity_main.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/activity_main.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/layout_fragment_player.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/layout/fragment_player.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/layout_fragment_player.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/fragment_player.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/layout_audio_track_dialog.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/layout/audio_track_dialog.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_volume_off_24.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_volume_off_24.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_play.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_play.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/anim_slide_out_left.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/anim/slide_out_left.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/anim_slide_out_right.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/anim/slide_out_right.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/navigation_main_nav_graph.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/navigation/main_nav_graph.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/anim_slide_in_right.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/anim/slide_in_right.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_more.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_more.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_screen_rotation.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_screen_rotation.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_fullscreen.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_fullscreen.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/layout_details_bottomsheet_dialog.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/layout/details_bottomsheet_dialog.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/xml_file_path.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/xml/file_path.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_thumb.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/thumb.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/anim_slide_in_left.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/anim/slide_in_left.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_menu.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_menu.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/layout_custom_player_control_view.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/custom_player_control_view.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/layout/activity_main.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_launcher_background.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_track.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/track.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_folder.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_folder.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/layout_fragment_video.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/layout/fragment_video.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_lock.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_lock.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/layout_folder_item.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/layout/folder_item.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_more.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_more.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/layout_fragment_folder.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/fragment_folder.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/menu_popup_menu.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/menu/popup_menu.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_menu.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_menu.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/layout_video_item.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/video_item.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_volume_up_24.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_volume_up_24.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/xml_file_path.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/xml/file_path.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/layout_audio_track_dialog.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/audio_track_dialog.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_lock.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_lock.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/navigation_main_nav_graph.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/navigation/main_nav_graph.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/menu_popup_menu.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/menu/popup_menu.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_fullscreen_exit.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_fullscreen_exit.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_search.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_search.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_audiotrack.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_audiotrack.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/menu_search_menu.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/menu/search_menu.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_subtitles.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_subtitles.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_search.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_search.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_folder.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_folder.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/anim_slide_in_left.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/anim/slide_in_left.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/layout_details_bottomsheet_dialog.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/details_bottomsheet_dialog.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_background_image.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/background_image.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_audiotrack.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_audiotrack.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_arrow_back.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_arrow_back.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_lock_open.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_lock_open.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_fullscreen_exit.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_fullscreen_exit.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.shahin.evplayer.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_thumb.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/thumb.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_arrow_back.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_volume_up_24.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_volume_up_24.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/menu_search_menu.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/menu/search_menu.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_track.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/track.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_play.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_play.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_screen_rotation.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_screen_rotation.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/layout_fragment_video.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/fragment_video.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_fullscreen.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_fullscreen.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_lock_open.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_lock_open.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/anim_slide_out_right.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/anim/slide_out_right.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/layout_folder_item.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/layout/folder_item.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/anim_slide_out_left.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/anim/slide_out_left.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_volume_off_24.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_volume_off_24.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/layout_custom_player_control_view.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/layout/custom_player_control_view.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/drawable_ic_subtitles.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/drawable/ic_subtitles.xml"
     },
     {
-        "merged": "com.lasuak.kvplayer.app-merged_res-50:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.lasuak.kvplayer.app-main-52:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.shahin.evplayer.app-merged_res-50:/layout_fragment_folder.xml.flat",
+        "source": "com.shahin.evplayer.app-main-52:/layout/fragment_folder.xml"
     }
 ]

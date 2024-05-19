@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">KVPlayer</string>
+    <string name="app_name">EVPlayer</string>
     <string name="delete_from_device">Delete from Device</string>
     <string name="share_video">Share</string>
     <string name="details">Properties</string>
-    <string name="file_provider">com.lasuak.kvplayer.fileprovider</string>
+    <string name="file_provider">com.shahin.evplayer.fileprovider</string>
     <string name="more_option">More option</string>
     <string name="location">Location</string>
     <string name="file_name">File Name</string>
